@@ -1,4 +1,4 @@
-# Luke's dmenu
+# Fork of Luke's dmenu
 
 Extra stuff added to vanilla dmenu:
 
